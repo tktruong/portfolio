@@ -26,6 +26,12 @@ Ford GoBike is the Bay Area's bikeshare system, which aims to be a fast, conveni
 
 Given only geographic and environmental variables, can we predict what type of tree grows in a 30 m x 30 m plot in a northern Colorado forest? To tackle this machine learning problem, I utilized exploratory data analysis, feature selection, and feature engineering to develop an effective Decision Tree model. Ultimately, ensemble methods such as Random Forest and "soft" voting proved to be the most accurate with this problem.
 
+## Spark EDA Click Through Rate Data
+
+* Skills / Tools Used: Python, Spark, pandas, seaborn
+
+Exploratory Data Analysis on anonymized data for digital advertising. The goal of the project was to predict click through rate based on training data that consisted of numerical and categorical features. 
+
 ## Med Practice Management
 
 * Skills / Tools Used: Python, Object-Oriented Programming
