@@ -36,10 +36,3 @@ Given only geographic and environmental variables, can we predict what type of t
 * Skills / Tools Used: Python, Spark, pandas, seaborn
 
 Exploratory Data Analysis on anonymized data for digital advertising. The goal of the project was to predict click through rate based on training data that consisted of numerical and categorical features. 
-
-## Med Practice Management
-
-* Skills / Tools Used: Python, Object-Oriented Programming
-
-Providers such as doctors and nurses tend to utilize electronic health records systems with a practice management aspect to handle the creation of patient records, billing, and scheduling. As a healthcare analyst, I developed my own version of such a system.
-
