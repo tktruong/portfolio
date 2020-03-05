@@ -10,8 +10,37 @@ ICD10 code to write the temp table.
 
 **/
 
-CREATE TABLE #dx (code varchar(5))
-INSERT INTO #dx values -- will add these later
+CREATE TABLE #dx (code varchar(10))
+INSERT INTO #dx values ('F20.0')
+INSERT INTO #dx values ('F20.1')
+INSERT INTO #dx values ('F20.2')
+INSERT INTO #dx values ('F20.3')
+INSERT INTO #dx values ('F20.5')
+INSERT INTO #dx values ('F20.81')
+INSERT INTO #dx values ('F20.89')
+INSERT INTO #dx values ('F20.9')
+INSERT INTO #dx values ('F21')
+INSERT INTO #dx values ('F22')
+INSERT INTO #dx values ('F23')
+INSERT INTO #dx values ('F24')
+INSERT INTO #dx values ('F25.0')
+INSERT INTO #dx values ('F25.1')
+INSERT INTO #dx values ('F25.8')
+INSERT INTO #dx values ('F25.9')
+INSERT INTO #dx values ('F28')
+INSERT INTO #dx values ('F29')
+INSERT INTO #dx values ('F30.10')
+INSERT INTO #dx values ('F30.11')
+INSERT INTO #dx values ('F30.12')
+INSERT INTO #dx values ('F30.13')
+INSERT INTO #dx values ('F30.2')
+INSERT INTO #dx values ('F30.3')
+INSERT INTO #dx values ('F30.4')
+INSERT INTO #dx values ('F30.8')
+INSERT INTO #dx values ('F30.9')
+INSERT INTO #dx values ('F31.0')
+--there were 212 diagnoses actually but I didn't include them in this example
+
 
 SELECT
    p.last_name,
