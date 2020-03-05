@@ -19,6 +19,7 @@ As part of a group project for my Python Fundamentals for Data Science course, w
 
 This is an example of the work I do as an analyst in the healthcare field. Stakeholders often request information on patients meeting certain criteria. In this case, the criteria came from a list provided by clinicians, which had to be incorporated into the SQL query.
 
+## Ford GoBike Usage Analysis
 * Skills / Tools Used: Commandline, Google BigQuery, Python, pandas, matplotlib
 
 Ford GoBike is the Bay Area's bikeshare system, which aims to be a fast, convenient way to get around--whether you're commuting, running errands, or just sightseeing. In this analysis, I utilized the pilot program data to learn which are popular commuter routes and what potential offers will increase ridership in the system. I used data from Google BigQuery stored in three tables: bikeshare_trips, bikeshare_status, and bikeshare_stations.
