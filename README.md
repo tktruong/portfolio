@@ -14,7 +14,12 @@ Although this is a limiting and imprecise test, it can be shocking what films pa
 
 As part of a group project for my Python Fundamentals for Data Science course, we sought to analyze Bechdel Test rated films in conjunction with IMDB, box office, and earnings data. I was responsible for extracting the Bechdel Test data via API and cleaning it as well as filtering the large IMDB data files in SQL. I also performed analysis on Bechdel Test ratings for films over the decades and for films of the highest paid actresses of 2017 using pandas.
 
-## Ford GoBike Bikeshare Analysis
+## Patient Query by Dx
+* Skills / Tools Used: Microsoft SQL Server, Python, pandas
+
+This is an example of the work I do as an analyst in the healthcare field. Stakeholders often request information on patients meeting certain criteria. In this case, the criteria came from a list provided by clinicians, which had to be incorporated into the SQL query.
+
+/usr/bin/bash: q: command not found
 
 * Skills / Tools Used: Commandline, Google BigQuery, Python, pandas, matplotlib
 
